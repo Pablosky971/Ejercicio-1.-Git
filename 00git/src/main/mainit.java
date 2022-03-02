@@ -30,9 +30,9 @@ public class mainit {
 				
 		int restaAcumulada = Resta.restaAcumulada(1,2,7,9,numero1);
 		System.out.println("Resultado de la resta acumulada: " + sumaAcumulada);
-		System.out.println("Prueba para la rama de resta");
-		
+
 		System.out.println("Fin del programa. Espero que le haya sido de utilidad.");
+		
 		
 		
 		
