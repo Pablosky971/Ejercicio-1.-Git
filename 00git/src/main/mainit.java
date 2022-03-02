@@ -34,7 +34,7 @@ public class mainit {
 		System.out.println("Cambio diferente al que está en la resta");
 		System.out.println("Fin del programa. Espero que le haya sido de utilidad.");
 		
-		
+		System.out.println("Prueba en la rama suma");
 		
 		
 	}
