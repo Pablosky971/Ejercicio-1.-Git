@@ -31,7 +31,7 @@ public class mainit {
 		int restaAcumulada = Resta.restaAcumulada(1,2,7,9,numero1);
 		System.out.println("Resultado de la resta acumulada: " + sumaAcumulada);
 		
-		System.out.println("Cambio diferente al que está en la resta");
+		System.out.println("Prueba en la rama resta");
 		System.out.println("Fin del programa. Espero que le haya sido de utilidad.");
 		
 		System.out.println("Prueba en la rama suma");
